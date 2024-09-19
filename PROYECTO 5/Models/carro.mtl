@@ -1,0 +1,310 @@
+# Blender 4.0.2 MTL File: 'None'
+# www.blender.org
+
+newmtl CSR2_BrakeDisc_ForgedDrilled
+Ns 329.113586
+Ka 0.486842 0.486842 0.486842
+Ks 0.405789 0.405789 0.405789
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/3D Models/Rims/ENKEI_Racing-Series-NT03+M/maps/BrakeDisc_ForgedDrilled_diff.png
+map_Bump C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/3D Models/Rims/ENKEI_Racing-Series-NT03+M/maps/BrakeDisc_ForgedDrilled_nrml.png
+
+newmtl CSR2_TNR_Rim5A
+Ns 425.927979
+Ka 0.750000 0.750000 0.750000
+Ks 0.366316 0.366316 0.366316
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/3D Models/Rims/ENKEI_Racing-Series-NT03+M/maps/TNR_Rim5A_ref.png
+map_Bump C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/3D Models/Rims/ENKEI_Racing-Series-NT03+M/maps/TNR_Rim5_nrml.png
+
+newmtl CSR2_TOYO_ProxesR888_A
+Ns 207.264572
+Ka 0.684211 0.684211 0.684211
+Ks 0.445263 0.445263 0.445263
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/3D Models/Rims/ENKEI_Racing-Series-NT03+M/maps/TOYO_ProxesR888_A_diff.png
+map_Bump C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/3D Models/Rims/ENKEI_Racing-Series-NT03+M/maps/TOYO_ProxesR888_A_nrml.png
+
+newmtl Honda_CivicTypeRRewardRecycled_2023BadgeA_Material
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_BadgeA_DiffuseAOSO.png
+map_d C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_BadgeA_DiffuseAOSO.png
+map_Bump C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_BadgeA_Normal.png
+
+newmtl Honda_CivicTypeRRewardRecycled_2023Base_Material
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Honda_CivicTypeRRewardRecycled_2023Carbon1_Material
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.341000 0.341000 0.341000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Honda_CivicTypeRRewardRecycled_2023Coloured_Material
+Ns 450.103821
+Ka 0.700000 0.700000 0.700000
+Ks 0.684211 0.684211 0.684211
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/Already Modded/Global_Texture_Coloured_Diffuse.png
+
+newmtl Honda_CivicTypeRRewardRecycled_2023EngineA_Material
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_EngineA_DiffuseAOSO.png
+map_d C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_EngineA_DiffuseAOSO.png
+map_Bump C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_EngineA_Normal.png
+
+newmtl Honda_CivicTypeRRewardRecycled_2023GrilleAlpha1A_Material
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille1A_DiffuseAOSO.png
+map_d C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille1A_DiffuseAOSO.png
+map_Bump C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille1A_Normal.png
+
+newmtl Honda_CivicTypeRRewardRecycled_2023GrilleAlpha3A_Material
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille3A_DiffuseAOSO.png
+map_d C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille3A_DiffuseAOSO.png
+map_Bump C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille3A_Normal.png
+
+newmtl Honda_CivicTypeRRewardRecycled_2023GrilleAlpha8A_Material
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille8A_DiffuseAOSO.png
+map_d C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille8A_DiffuseAOSO.png
+map_Bump C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille8A_Normal.png
+
+newmtl Honda_CivicTypeRRewardRecycled_2023GrilleNoAlpha2A_Material
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille2A_DiffuseAOSO.png
+map_d C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille2A_DiffuseAOSO.png
+map_Bump C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille2A_Normal.png
+
+newmtl Honda_CivicTypeRRewardRecycled_2023GrilleNoAlpha4A_Material
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille4A_DiffuseAOSO.png
+map_d C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille4A_DiffuseAOSO.png
+map_Bump C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille4A_Normal.png
+
+newmtl Honda_CivicTypeRRewardRecycled_2023GrilleNoAlpha5A_Material
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille5A_DiffuseAOSO.png
+map_d C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille5A_DiffuseAOSO.png
+map_Bump C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille5A_Normal.png
+
+newmtl Honda_CivicTypeRRewardRecycled_2023GrilleNoAlpha6A_Material
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille6A_DiffuseAOSO.png
+map_d C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille6A_DiffuseAOSO.png
+map_Bump C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille6A_Normal.png
+
+newmtl Honda_CivicTypeRRewardRecycled_2023GrilleNoAlpha7A_Material
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille7A_DiffuseAOSO.png
+map_d C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille7A_DiffuseAOSO.png
+map_Bump C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille7A_Normal.png
+
+newmtl Honda_CivicTypeRRewardRecycled_2023GrilleNoAlpha9A_Material
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille9A_DiffuseAOSO.png
+map_d C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille9A_DiffuseAOSO.png
+map_Bump C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_Grille9A_Normal.png
+
+newmtl Honda_CivicTypeRRewardRecycled_2023InteriorA_Material
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_InteriorA_DiffuseAOSO.png
+map_d C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_InteriorA_DiffuseAOSO.png
+map_Bump C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_InteriorA_Normal.png
+
+newmtl Honda_CivicTypeRRewardRecycled_2023InteriorColourZoneA_Material
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_InteriorColourZoneA_Normal.png
+
+newmtl Honda_CivicTypeRRewardRecycled_2023InteriorTillingA_Material
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_InteriorTillingA_DiffuseAOSO.png
+map_d C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_InteriorTillingA_DiffuseAOSO.png
+map_Bump C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_InteriorTillingA_Normal.png
+
+newmtl Honda_CivicTypeRRewardRecycled_2023InteriorTillingColou_11942d1
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_InteriorTillingColourZoneA_Normal.png
+
+newmtl Honda_CivicTypeRRewardRecycled_2023LicensePlateDefaultA_9683a21
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/Already Modded/plat3.png
+
+newmtl Honda_CivicTypeRRewardRecycled_2023LightA_Material
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_LightA_Diffuse.png
+map_d C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_LightA_Diffuse.png
+
+newmtl Honda_CivicTypeRRewardRecycled_2023Paint_Material
+Ns 366.156097
+Ka 0.684211 0.684211 0.684211
+Kd 0.621426 0.159796 0.000000
+Ks 0.657895 0.657895 0.657895
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Honda_CivicTypeRRewardRecycled_2023SeatBelt_Material
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.012218 0.012218 0.012218
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Honda_CivicTypeRRewardRecycled_2023TexturedA_Material
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_TexturedA_Diffuse.png
+map_d C:/Users/riosn/OneDrive/Documentos/NOVENO SEMESTRE/COMPUTACION GRRAFICA/MODELOS/honda-civic-type-r-fl5-custom/source/Honda Civic Type R FL5 Custom/C:/Users/ACER/Desktop/Mods/CSR2 Model/Honda Civic Type R/Body_lodA/Honda_CivicTypeR_2023_TexturedA_Diffuse.png
+
+newmtl Honda_CivicTypeRRewardRecycled_2023WindowInside_Material
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.500000
+illum 9
+
+newmtl Honda_CivicTypeRRewardRecycled_2023Window_Material
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.500000
+illum 9
+
+newmtl plastic
+Ns 468.144043
+Ka 0.750000 0.750000 0.750000
+Kd 0.018850 0.018850 0.018850
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
